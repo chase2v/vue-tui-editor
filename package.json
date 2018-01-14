@@ -1,0 +1,19 @@
+{
+  "name": "vue-tui-editor",
+  "version": "0.0.1",
+  "description": "Vue plugin of tui.editor.",
+  "main": "dist/app.js",
+  "author": "ShaneVV",
+  "license": "ISC",
+  "dependencies": {
+    "tui-editor": "^1.0.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "webpack": "^3.10.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "css-loader": "^0.28.8",
+    "style-loader": "^0.19.1"
+  }
+}
