@@ -3,7 +3,10 @@
   "version": "0.0.1",
   "description": "Vue plugin of tui.editor.",
   "main": "dist/app.js",
-  "author": "ShaneVV",
+  "author": {
+    "name" : "ShaneVV",
+    "email" : "406653843@qq.com"
+  },
   "license": "ISC",
   "dependencies": {
     "tui-editor": "^1.0.1"
